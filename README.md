@@ -74,7 +74,7 @@ Desktop-based banking application developed using Java, Swing, JDBC and MySQL.
 
 - **400+ DSA problems** solved
 - Regular practice on coding platforms
-- Focus areas:Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Hash Tables, Sorting, Searching,
+- Focus areas: Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Hash Tables, Sorting, Searching,
 Two Pointers
 
 ---

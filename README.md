@@ -91,4 +91,4 @@ Two Pointers
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/abhishek-yadav-69575a259/) • [LeetCode](https://leetcode.com/u/CS_2201640100015/) • [GitHub](https://github.com/Abhishekyadav2008)
+[LinkedIn](https://www.linkedin.com/in/abhishek-yadav-69575a259/) • [LeetCode](https://leetcode.com/u/CS_2201640100015/) • [HackerRank](https://www.hackerrank.com/profile/CS_2201640100015) • [GeeksforGeeks](https://www.geeksforgeeks.org/profile/yadavabhi?tab=activity) • [GitHub](https://github.com/Abhishekyadav2008)

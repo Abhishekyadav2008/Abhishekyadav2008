@@ -18,18 +18,23 @@ I primarily work with **C++ and Python** and enjoy building practical software p
 ## 🛠️ Technical Skills
 
 ### Languages
+
 `C++` `Python` `SQL` `Java`
 
 ### Core Computer Science
+
 `Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems`
 
-### Backend & Python
-`Flask` `Jinja2` `REST APIs` `Requests` `File Handling` `Virtual Environments`
+### Backend & Frameworks
+
+`Flask` `Jinja2` `.NET` `REST APIs` `Requests` `File Handling` `Virtual Environments`
 
 ### AI / Machine Learning
+
 `Scikit-learn` `OpenCV` `Pandas` `NumPy` `TensorFlow` `Keras`
 
 ### Version Control & Tools
+
 `Git` `GitHub` `VS Code`
 
 ---
@@ -74,8 +79,7 @@ Desktop-based banking application developed using Java, Swing, JDBC and MySQL.
 
 - **400+ DSA problems** solved
 - Regular practice on coding platforms
-- Focus areas: Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Hash Tables, Sorting, Searching,
-Two Pointers
+- Focus areas: Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Hash Tables, Sorting, Searching, Two Pointers
 
 ---
 

@@ -88,7 +88,7 @@ Two Pointers
 - Git and software development workflows
 
 ---
-
+https://leetcode.com/u/CS_2201640100015/
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/abhishek-yadav-69575a259/) • [LeetCode](https://leetcode.com/u/CS_220164010001/) • [GitHub](https://github.com/Abhishekyadav2008)
+[LinkedIn](https://www.linkedin.com/in/abhishek-yadav-69575a259/) • [LeetCode(https://leetcode.com/u/CS_2201640100015/)] • [GitHub](https://github.com/Abhishekyadav2008)

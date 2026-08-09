@@ -26,7 +26,7 @@ I primarily work with **C++ and Python** and enjoy building software projects wh
 
 **AI / Machine Learning**
 
-`Scikit-learn` `OpenCV` `MediaPipe` `TensorFlow` `Keras` `Pandas` `NumPy`
+`Scikit-learn` `OpenCV` `Pandas` `NumPy` `TensorFlow` `Keras`
 
 **Tools**
 

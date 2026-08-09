@@ -4,14 +4,14 @@
 
 I am a Computer Science graduate with a strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and SQL**.
 
-I primarily work with **C++ and Python**, and I enjoy building practical software projects while continuously improving my problem-solving and development skills.
+I primarily work with **C++ and Python** and enjoy building practical software projects while continuously improving my problem-solving and development skills.
 
 - 💻 Strong foundation in C++, Python and SQL
 - 🧩 Solved **400+ DSA problems** across coding platforms
-- 🐍 Hands-on experience with Python development and Flask
-- 🤖 Built projects involving Machine Learning and Computer Vision
-- 🔧 Familiar with Git, GitHub, REST APIs, virtual environments and package management
-- 📚 Continuously learning through projects, coding practice and self-learning
+- 🐍 Hands-on experience with Python and Flask development
+- 🤖 Hands-on experience with Machine Learning and Computer Vision projects
+- 🔧 Familiar with Git, GitHub, APIs and software development workflows
+- 📚 Continuously learning through projects and problem solving
 
 ---
 
@@ -23,63 +23,42 @@ I primarily work with **C++ and Python**, and I enjoy building practical softwar
 ### Core Computer Science
 `Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems`
 
-### Python & Backend
-`Python` `Flask` `Jinja2` `REST APIs` `Requests` `File Handling` `Regular Expressions`
+### Backend & Python
+`Flask` `Jinja2` `REST APIs` `Requests` `File Handling` `Virtual Environments`
 
-### Machine Learning & Computer Vision
+### AI / Machine Learning
 `Scikit-learn` `OpenCV` `Pandas` `NumPy` `TensorFlow` `Keras`
 
-### Development & Tools
-`Git` `GitHub` `VS Code` `Virtual Environments` `pip`
-
-### AI / LLM
-`LLM APIs` `AI-assisted Development` `Prompting`
+### Version Control & Tools
+`Git` `GitHub` `VS Code`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 VidSnapAI — AI-Powered Reel Generator
+### 🎬 VidSnapAI
 
-A Flask-based application that converts user-uploaded images and text descriptions into vertical short-form video reels.
+AI-powered short-video generation application using Flask, Text-to-Speech and FFmpeg.
 
-**Tech:** Python, Flask, ElevenLabs TTS, FFmpeg, HTML, CSS, Jinja2
-
-**Key Concepts:**
-- File upload and management
-- Text-to-Speech integration
-- Automated video generation
-- Background processing
-- FFmpeg-based media processing
-- Environment-based API configuration
+**Tech:** Python, Flask, ElevenLabs, FFmpeg, HTML, CSS
 
 [View Project](https://github.com/Abhishekyadav2008/VidSnapAI)
 
----
-
 ### 🚗 Vehicle Detection and Counting
 
-Computer vision project for detecting and counting vehicles from video input using YOLO and OpenCV.
+Computer vision project using YOLO and OpenCV to detect and count vehicles from video input.
 
 **Tech:** Python, YOLO, OpenCV
 
-**Focus:** Object detection, image processing and video analysis
-
 [View Project](https://github.com/Abhishekyadav2008/Vehicle_Detection_and_Counting)
-
----
 
 ### 📊 Loan Approval Prediction System
 
-Machine Learning project for predicting loan approval using data preprocessing and classification techniques.
+Machine Learning project for predicting loan approval using data preprocessing and classification models.
 
 **Tech:** Python, Scikit-learn, Pandas, NumPy
 
-**Focus:** Data preprocessing, feature handling, model training and evaluation
-
 [View Project](https://github.com/Abhishekyadav2008/Loan-Approval-Prediction-System)
-
----
 
 ### 🏦 Bank Management System
 
@@ -87,21 +66,7 @@ Desktop-based banking application developed using Java, Swing, JDBC and MySQL.
 
 **Tech:** Java, Swing, JDBC, MySQL
 
-**Focus:** OOP, database connectivity and application workflow
-
 [View Project](https://github.com/Abhishekyadav2008/Bank-Management-System)
-
----
-
-## 🧠 What I'm Currently Building & Learning
-
-- Backend development with Python and Flask
-- Machine Learning and Computer Vision
-- REST API integration
-- Git and GitHub workflows
-- AI and LLM-based applications
-- Writing cleaner and more maintainable code
-- Strengthening DSA and problem-solving skills
 
 ---
 
@@ -109,19 +74,21 @@ Desktop-based banking application developed using Java, Swing, JDBC and MySQL.
 
 - **400+ DSA problems** solved
 - Regular practice on coding platforms
-- Focus areas:
-  - Arrays
-  - Strings
-  - Linked Lists
-  - Stacks & Queues
-  - Trees
-  - Graphs
-  - Searching & Sorting
-  - Dynamic Programming
+- Focus areas:Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Hash Tables, Sorting, Searching,
+Two Pointers
 
 ---
 
-## 🔧 Development Workflow
+## 📚 Currently Learning
 
-```text
-Problem → Design → Code → Test → Debug → Git → GitHub
+- Python backend development
+- Machine Learning and Computer Vision
+- AI / LLM applications
+- REST API development
+- Git and software development workflows
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/abhishek-yadav-69575a259/) • [LeetCode](https://leetcode.com/u/CS_220164010001/) • [GitHub](https://github.com/Abhishekyadav2008)

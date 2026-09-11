@@ -2,16 +2,16 @@
 
 ### Computer Science Graduate | Aspiring Software Engineer
 
-I am a Computer Science graduate with a strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and SQL**.
+I am a Computer Science graduate with a strong foundation in **C++, Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, DBMS, and SQL**.
 
-I primarily work with **C++ and Python** and enjoy building practical software projects while continuously improving my problem-solving and development skills.
+I primarily work with **C++ and Python** and enjoy building practical software projects while improving my problem-solving and development skills.
 
-- 💻 Strong foundation in C++, Python and SQL
+- 💻 Hands-on experience building **C++ projects** using Data Structures and OOP
 - 🧩 Solved **400+ DSA problems** across coding platforms
+- 🖥️ Strong understanding of **Operating Systems and DBMS**
 - 🐍 Hands-on experience with Python and Flask development
 - 🤖 Hands-on experience with Machine Learning and Computer Vision projects
 - 🔧 Familiar with Git, GitHub, APIs and software development workflows
-- 📚 Continuously learning through projects and problem solving
 
 ---
 

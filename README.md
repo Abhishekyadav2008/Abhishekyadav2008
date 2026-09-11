@@ -90,7 +90,8 @@ Console-based Employee Management System developed using C++. Implements CRUD op
 - AI / LLM applications
 - REST API development
 - Git and software development workflows
-
+- C++ and STL
+- Next.js
 ---
 
 ## 📫 Connect With Me

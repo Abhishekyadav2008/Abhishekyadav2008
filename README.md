@@ -65,13 +65,13 @@ Machine Learning project for predicting loan approval using data preprocessing a
 
 [View Project](https://github.com/Abhishekyadav2008/Loan-Approval-Prediction-System)
 
-### 🏦 Bank Management System
+### 👨‍💼 Employee Management System
 
-Desktop-based banking application developed using Java, Swing, JDBC and MySQL.
+Console-based Employee Management System developed using C++. Implements CRUD operations and CSV-based file handling for managing employee records.
 
-**Tech:** Java, Swing, JDBC, MySQL
+**Tech:** C++, Data Structures, File Handling, CSV
 
-[View Project](https://github.com/Abhishekyadav2008/Bank-Management-System)
+[View Project](https://github.com/Abhishekyadav2008/Employee-Management-System)
 
 ---
 
